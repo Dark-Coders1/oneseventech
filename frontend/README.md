@@ -1,6 +1,21 @@
-# Getting Started with Create React App
+# Product Catalog Frontend
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is the frontend application for the Product Catalog, built with React and Material-UI.
+
+## Features
+
+- Display a list of products
+- Sort products by price
+- Add products to cart
+- View cart contents
+- Checkout using Stripe integration
+
+## Setup
+
+1. Install dependencies:
+
+2. Set up environment variables:
+   Create a `.env` file in the root of the frontend directory and add:
 
 ## Available Scripts
 
@@ -68,3 +83,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+3. Start the development server:
